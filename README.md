@@ -160,6 +160,8 @@ Estou sempre começando algo novo. Acompanhe meu perfil para ver o que vem por a
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Default138-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Default138)
+[![Gmail](https://img.shields.io/badge/Gmail-rafaelc.ifpr2024@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelc.ifpr2024@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(45)%2099143--7918-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5545991437918)
 
 <sub>💡 *"Todo sistema grande começou com um `CREATE TABLE`."*</sub>
 
